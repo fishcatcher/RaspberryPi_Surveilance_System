@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">RedLeaf</string>
+    <string name="connect_string">Connect</string>
+    <string name="address_string">ADDRESS</string>
+    <string name="port_string">PORT</string>
+    <string name="default_string">Default</string>
+    <string name="operate_string">Operate</string>
+    <string name="add_feed_string">Add Feed</string>
+    <string name="setting_string">Setting</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="hint_PIN_string">Enter PIN</string>
+    <string name="proceed_confirm_PIN_string">Process</string>
+    <string name="cancel_confirm_PIN_string">Cancel</string>
+    <string name="setting_activity_title_string">Home</string>
+    <string name="change_PIN_string">Change PIN</string>
+    <string name="change_language_string">Change language</string>
+    <string name="current_PIN_string">Current PIN</string>
+    <string name="new_PIN_string">New PIN</string>
+    <string name="confirm_new_PIN_string">Confirm new PIN</string>
+    <string name="save_PIN_string">Save</string>
+    <string name="connecting_string">Connecting&#8230;</string>
+    <string name="failed_to_connect_string">Failed to connect to server. Please try again!</string>
+    <string name="incorrect_PIN_string">PIN is incorrect. Please try again!</string>
+    <string name="request_sent_string">Request has been sent</string>
+    <string name="unsetting_PIN_string">PIN is not set. Please set PIN in Setting</string>
+    <string name="ok_string">OK</string>
+    <string name="require_length_string">Field(s) length needs to be</string>
+    <string name="PINs_not_match">New PIN and Confirm PIN are not match!</string>
+    <string name="PIN_not_match">Current PIN is not match!</string>
+    <string name="PIN_saved_string">New password is successfully saved!</string>
+
+
+</resources>

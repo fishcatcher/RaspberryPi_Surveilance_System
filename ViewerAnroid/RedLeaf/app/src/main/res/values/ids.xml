@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="sub_layout_top_id"/>
+    <item type="id" name="connect_button_id"/>
+    <item type="id" name="address_textview_id"/>
+    <item type="id" name="port_textview_id"/>
+    <item type="id" name="address_edittext_id"/>
+    <item type="id" name="port_edittext_id"/>
+    <item type="id" name="frame_imageview_id"/>
+    <item type="id" name="operate_button_id"/>
+    <item type="id" name="add_feed_button_id"/>
+    <item type="id" name="setting_button_id"/>
+</resources>

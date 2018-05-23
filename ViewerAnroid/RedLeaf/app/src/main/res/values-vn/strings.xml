@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">RedLeaf</string>
+    <string name="connect_string">Kết nối</string>
+    <string name="address_string">ĐỊA CHỈ</string>
+    <string name="port_string">CỔNG</string>
+    <string name="default_string">Mặc định</string>
+    <string name="operate_string">Kích hoạt</string>
+    <string name="setting_string">Cài đặt</string>
+    <string name="hint_PIN_string">Nhập PIN</string>
+    <string name="proceed_confirm_PIN_string">Tiếp tục</string>
+    <string name="cancel_confirm_PIN_string">Huỷ bỏ</string>
+    <string name="setting_activity_title_string">Home</string>
+    <string name="change_PIN_string">Thay đổi PIN</string>
+    <string name="change_language_string">Thay đổi ngôn ngữ</string>
+    <string name="current_PIN_string">PIN hiện tại</string>
+    <string name="new_PIN_string">PIN mới</string>
+    <string name="confirm_new_PIN_string">Xác nhận PIN mới</string>
+    <string name="save_PIN_string">Lưu lại</string>
+    <string name="connecting_string">Đang kết nối&#8230;</string>
+    <string name="failed_to_connect_string">Không thể kết nối. Xin hãy thử lại!</string>
+    <string name="incorrect_PIN_string">Mã PIN không đúng. Xin hãy thử lại!</string>
+    <string name="request_sent_string">Yêu cầu đã được gửi đi</string>
+    <string name="unsetting_PIN_string">Mã PIN chưa được thiết lập. Xin hãy thiết lập PIN ở mục Cài đặt</string>
+    <string name="require_length_string">Độ dài của tất cả ô mật khẩu phải là</string>
+    <string name="PINs_not_match">PIN mới và Xác nhận PIN mới không trùng hợp!</string>
+    <string name="PIN_not_match">PIN hiện tại không đúng!</string>
+    <string name="PIN_saved_string">PIN mới đã được lưu thành công!</string>
+
+
+
+</resources>
