@@ -18,10 +18,8 @@ To compile run the "mak" script
 
 
 To run server:
-
 ./server
 
 
 To run client:
-
 ./client <ip_address>
